@@ -1,8 +1,3 @@
-Below is a **professional, beginner-friendly GitHub README.md** you can directly copy and use for this **Web Scraping Lab project**.
-It is written the way **real companies, recruiters, and instructors** expect, while still being **easy to understand and practice**.
-
----
-
 # 🌐 Web Scraping with Python (Beginner Friendly)
 
 ## 📌 Project Overview
